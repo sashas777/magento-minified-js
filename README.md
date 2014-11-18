@@ -1,7 +1,7 @@
 Magento Minified Prototype & JS
 ==================
 
-This repo contains magento minified and combined js with defualt javascript and xml file for update of it.
+This repo contains magento minified and combined js with defualt javascript and xml file for update of it. <br/>
 The minified version of javascript was tested with Magento 1.8.x & 1.9.x
 
 ------------
